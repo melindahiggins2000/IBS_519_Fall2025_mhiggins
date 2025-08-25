@@ -45,7 +45,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 * Optional: [R Objects - Brief Overview of Factors](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_RObjectsFactors_mkh.html#1)
 * Optional: [Intro to ggplot2 (i.e. week 2)](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module03.html#1)
 * Optional: 
-    - [Intro to Data Wrangling with dplyr (i.e. week 3)](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1)
+    - [Intro to Data Wrangling with dplyr](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1)
 
 -----
 
@@ -82,7 +82,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
   - see "IBS_519_mhiggins_DataWrangling" on [Posit.cloud](https://posit.cloud/)
   - also see [Github repository](https://github.com/melindahiggins2000/IBS_519_wk3_lecture06_mhiggins)
 * [Posit Cloud](https://posit.cloud/) Project - Homework 3
-  - see "Assignment3_HW3_DataWrangling_Cleaning" on RStudio.cloud
+  - see "Assignment3_HW3_DataWrangling_Cleaning" on [Posit Cloud](https://posit.cloud/)
   - also see [Github repository](https://github.com/melindahiggins2000/IBS_519_Fall2023_HW3)
 
 -----
@@ -181,10 +181,12 @@ Packages needed:
 * [Download: RStudio IDE Desktop](https://www.rstudio.com/products/rstudio/download/#download)
     - Note: Windows is listed at the top - just scroll down to see the installer for the Mac OS as well. There are also installers for the versions of Linux/Unix.
 
-* [RStudio Education](https://education.rstudio.com/)
-* [RStudio Cloud Tutorials](https://rstudio.cloud/learn/primers)
+* [RStudio/Posit Education](https://education.rstudio.com/)
+* [Posit Cloud Getting Started](https://docs.posit.co/cloud/get_started/)
+* [Posit Cloud Recipes](https://posit.cloud/learn/recipes)
 * [** Quick-R **](https://www.statmethods.net/)
 * [Rmarkdown Tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
+* [Quarto](https://quarto.org/) - the "next" evolution of Rmarkdown
 * [tidyverse](https://www.tidyverse.org/)
 
 * [Datacamp](https://www.datacamp.com/)
