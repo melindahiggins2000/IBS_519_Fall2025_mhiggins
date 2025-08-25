@@ -12,7 +12,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 
 -----
 
-# Week 2 Lecture: Intro to R, RStudio and Rmarkdown
+# Melinda's First Lecture: Intro to R, RStudio and Rmarkdown
 
 ## This class will cover:
 
@@ -35,7 +35,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 
 ## Materials
 
-* RStudio Cloud Project "IBS_519_wk1_lecture02_mhiggins"
+* [Posit Cloud](https://posit.cloud/) Project "IBS_519_mhiggins_RRStudioIntro"
     - three R scripts
     - and simple Rmarkdown report to get started
     - stored on [Github](https://github.com/melindahiggins2000/IBS_519_wk1_lecture02_mhiggins)
@@ -49,7 +49,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 
 -----
 
-# Week 3 Lecture: Data Exploration and Wrangling (with dplyr)
+# Melinda's Second Lecture: Data Exploration and Wrangling (with dplyr)
 
 ## This class will cover:
 
@@ -78,16 +78,16 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
     
 ## Materials
 
-* RStudio Cloud Project - in class exercises
-  - see "IBS_519_wk3_lecture06_mhiggins" on RStudio.cloud
+* [Posit Cloud](https://posit.cloud/) Project - in class exercises
+  - see "IBS_519_mhiggins_DataWrangling" on [Posit.cloud](https://posit.cloud/)
   - also see [Github repository](https://github.com/melindahiggins2000/IBS_519_wk3_lecture06_mhiggins)
-* RStudio Cloud Project - Homework 3
+* [Posit Cloud](https://posit.cloud/) Project - Homework 3
   - see "Assignment3_HW3_DataWrangling_Cleaning" on RStudio.cloud
   - also see [Github repository](https://github.com/melindahiggins2000/IBS_519_Fall2023_HW3)
 
 -----
 
-# Week 4 Lecture: Reproducible Research and RMarkdown
+# Melinda's Third Lecture: Reproducible Research and RMarkdown
 
 ## Today's class will cover:
 
@@ -114,9 +114,9 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
             * [https://www.overleaf.com/](https://www.overleaf.com/)
 
 
-## Materials for wk4
+## Materials for Rmarkdown Lecture Exercises
 
-RStudio Cloud Project "IBS_519_wk4_lecture08_mhiggins" - files explained:
+[Posit Cloud](https://posit.cloud/) Project "IBS_519_mhiggins_Rmarkdown" - files explained:
 
 This project is also posted in Github at [https://github.com/melindahiggins2000/IBS_519_wk4_lecture08_mhiggins](https://github.com/melindahiggins2000/IBS_519_wk4_lecture08_mhiggins)
 
@@ -160,7 +160,7 @@ Packages needed:
 * For flexdashboard.Rmd
     - `flexdashboard`
 
-### Follow-up from wk3
+### Follow-up from Second Lecture - sorting/arrange
 
 * review the `order_sort_arrange.R` scipt
 
